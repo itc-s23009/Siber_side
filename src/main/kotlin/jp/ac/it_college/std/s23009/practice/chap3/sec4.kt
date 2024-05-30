@@ -6,4 +6,7 @@ fun main() {
     user.name = "Takehata"
     println(user.id)
     println(user.name)
+
+    val function = CalcJava{num1, num2 -> num1 + num2 }
+    println(function)
 }
