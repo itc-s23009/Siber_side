@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.nakasone.practice.chap2
+package jp.ac.it_college.std.s23009.practice.chap2
 
 class AddCalculationExecutorDelegate(private val calculationExecutor: CalculationExecutor) :
     CalculationExecutor by calculationExecutor {

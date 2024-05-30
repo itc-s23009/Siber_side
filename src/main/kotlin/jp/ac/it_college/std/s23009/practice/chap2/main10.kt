@@ -1,4 +1,4 @@
-package jp.ac.it_college.std.nakasone.practice.chap2
+package jp.ac.it_college.std.s23009.practice.chap2
 
 fun main() {
     println("----2.10.2----")
